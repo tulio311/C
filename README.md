@@ -1,3 +1,3 @@
-# c_Exercises
+# C Exercises
 
-Some coding in c I've done at the university.
+Some coding in C I've done at the university.
